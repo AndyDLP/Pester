@@ -1,3 +1,5 @@
+[![PS Gallery][psgallery-badge]][powershell-gallery]
+
 # Pester
 
 > 🌵 We are migrating documentation and wiki content to a new place [https://pester.dev/docs/quick-start](https://pester.dev/docs/quick-start). The wiki is now locked and will be deprecated in favor of the new solution. Please help us out with the migration in the [📑docs repository](https://github.com/pester/docs/issues).
